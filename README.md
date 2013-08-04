@@ -23,7 +23,6 @@ bm-core performs the following actions:
 	- Allows bm-sync to mitigate attacks by design.
 - Generate multiple identities
 - Subscribe to multiple addresses
-- Join/Create community chans
 
 
 
